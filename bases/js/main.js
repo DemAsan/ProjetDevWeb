@@ -1,7 +1,7 @@
-var message = console.log("Bien le bonjours");
-console.log(message);
+// var message = console.log("Bien le bonjours");
+// console.log(message);
 
-console.error("et meerde");
+// console.error("et meerde");
 
-// alert("TEST");
+alert("TEST");
 
